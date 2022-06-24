@@ -38,7 +38,7 @@ export default function Layout() {
                 <HomeIcon />
               </IconButton>
               <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-                YANG EKS Hands on
+                YANG EKS Hands on 2
               </Typography>
             </Toolbar>
           </AppBar>
